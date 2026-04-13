@@ -1,8 +1,16 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Mustermann;Max
+N:Mustermann;Max;;;
 FN:Max Mustermann
-ORG:Deine Firma
-TEL:+49123456789
-EMAIL:max@firma.de
+ORG:Musterfirma GmbH
+TITLE:Automatisierungstechniker
+TEL;TYPE=CELL:+49123456789
+TEL;TYPE=WORK:+497112345678
+EMAIL;TYPE=WORK:max@firma.de
+URL:https://www.firma.de
+ADR;TYPE=WORK:;;Musterstraße 12;Stuttgart;BW;70173;Deutschland
+BDAY:1990-05-15
+NOTE:Zuständig für Automatisierung, Inbetriebnahme und Schultechnik
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/maxmustermann
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/maxmustermann
 END:VCARD
