@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Mustermann;Max
+FN:Max Mustermann
+ORG:Deine Firma
+TEL:+49123456789
+EMAIL:max@firma.de
+END:VCARD
